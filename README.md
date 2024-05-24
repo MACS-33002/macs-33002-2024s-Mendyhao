@@ -18,11 +18,16 @@ This project aims to predict customer churn in banking industry using machine le
 1) Stacking Model.
 
 
-This project asks the following questions:
-1) What factors indicate a customer churning or not?
-ANSWER:
-Based on the three supervised models explored, the most important factors are age, geography, whether the customer is an active member, and the number of products they hold.
+**This project asks the following questions**:
 
-2) Can banks detect who are more likely to churn and take measures to those customers?
-ANSWER:
-Generally, yes! The model's strong AUC score of nearly 89% and a recall of 80% for the churn class indicate that banks can effectively identify and take measures for 80% of actual churn cases.
+**1) What factors indicate a customer churning or not?**
+
+_ANSWER:_
+
+_Based on the three supervised models explored, the most important factors are age, geography, whether the customer is an active member, and the number of products they hold._
+
+**2) Can banks detect who are more likely to churn and take measures to those customers?**
+
+_ANSWER:_
+
+_Generally, yes! The model's strong AUC score of nearly 89% and a recall of 80% for the churn class indicate that banks can effectively identify and take measures for 80% of actual churn cases._
