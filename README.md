@@ -2,7 +2,7 @@
 
 A final version of the code can be found in `P4_evaluation.ipynb`. A presentation slide is available in `P5_PresentationSlide.pdf`, with a presentation video link in the front page.
 
-# **Introduction to the Project**
+# **Introduction to the Project:**
 
 This project aims to predict customer churn in banking industry using machine learning models. Over the past few decades, customers have had more and more options for where to store their money, making customer churn a big problem for many banks. The goal of my research is to use machine learning to predict churn, helping banks proactively engage with customers who are at risk of leaving. 
 
@@ -22,7 +22,7 @@ This project aims to predict customer churn in banking industry using machine le
 1) Stacking Model.
 
 
-# **This project asks the following questions**:
+# **This project asks the following questions:**
 
 **1) What factors indicate a customer churning or not?**
 
