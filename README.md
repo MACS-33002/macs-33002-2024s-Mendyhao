@@ -1,24 +1,28 @@
-# Introduction to the project
+# **File Instructions:**
+
+A final version of the code can be found in `P4_evaluation.ipynb`. A presentation slide is available in `P5_PresentationSlide.pdf`, with a presentation video link in the front page.
+
+# **Introduction to the Project**
 
 This project aims to predict customer churn in banking industry using machine learning models. Over the past few decades, customers have had more and more options for where to store their money, making customer churn a big problem for many banks. The goal of my research is to use machine learning to predict churn, helping banks proactively engage with customers who are at risk of leaving. 
 
-- Supervised models:
+- **Supervised models**:
 
 1) Logistic Regression;
 2) K-nearest Neighbors;
 3) Random Forest;
 
-- Unsupervised models:
+- **Unsupervised models**:
 
 1) PCA;
 2) K-means Clustering.
 
-- Ensemble model:
+- **Ensemble model**:
 
 1) Stacking Model.
 
 
-**This project asks the following questions**:
+# **This project asks the following questions**:
 
 **1) What factors indicate a customer churning or not?**
 
@@ -31,8 +35,3 @@ _Based on the three supervised models explored, the most important factors are a
 _ANSWER:_
 
 _Generally, yes! The model's strong AUC score of nearly 89% and a recall of 80% for the churn class indicate that banks can effectively identify and take measures for 80% of actual churn cases._
-
-
-**File Instructions:**
-
-A final version of the code can be found in `P4_evaluation.ipynb`. A presentation slide is available in `P5_PresentationSlide.pdf`, with a presentation video link in the front page.
